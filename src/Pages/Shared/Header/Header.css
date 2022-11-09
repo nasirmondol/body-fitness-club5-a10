@@ -1,0 +1,11 @@
+.header a {
+    text-decoration: none;
+    margin: 15px;
+}
+
+.header{
+    display: flex;
+    height: 60px;
+    align-items: center;
+}
+
